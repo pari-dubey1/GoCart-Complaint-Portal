@@ -17,7 +17,6 @@ A web-based complaint submission system for GoCart delivery service.
 2. PHP & MySQL (for backend and database)
 
 ## 🌐 Live Demo  
-## 🌐 Live Demo  
 [Click here to view the website](http://gocart-support.rf.gd)
 
 
