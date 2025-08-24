@@ -19,4 +19,10 @@ A web-based complaint submission system for GoCart delivery service.
 ## 🌐 Live Demo  
 [Click here to view the website](http://gocart-support.rf.gd)
 
+## 📸 Screenshots
 
+### Homepage-Complaint Form
+![Homepage screenshot](assets/screenshots/gocart-complaint.png)
+
+### Check Status
+![Complaint form screenshot](assets/screenshots/gocart-checkstatus.png)
