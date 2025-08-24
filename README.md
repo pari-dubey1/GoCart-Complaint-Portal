@@ -26,3 +26,9 @@ A web-based complaint submission system for GoCart delivery service.
 
 ### Check Status
 ![Complaint form screenshot](assets/screenshots/gocart-checkstatus.png)
+
+### Admin Panel
+![Admin form screenshot](assets/screenshots/gocart-adminpanel.png)
+
+### FAQs
+![FAQs screenshot](assets/screenshots/gocart-faq.png)
