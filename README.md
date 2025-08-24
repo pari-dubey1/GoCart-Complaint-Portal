@@ -1,8 +1,8 @@
-GoCart Complaint Portal
+## GoCart Complaint Portal
 
 A web-based complaint submission system for GoCart delivery service.
 
-🚀 Features
+## 🚀 Features
 
 1. Users can submit complaints about deliveries
 
@@ -10,7 +10,7 @@ A web-based complaint submission system for GoCart delivery service.
 
 3. Admin dashboard to view and manage complaints
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 1.  HTML, CSS, JavaScript, Bootstrap
 
